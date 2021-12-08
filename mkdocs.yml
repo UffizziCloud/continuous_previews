@@ -1,0 +1,47 @@
+# Project information
+site_name: Continuous Previews
+site_description: >-
+  Continuous Previews
+
+# Repository
+repo_url: https://github.com/UffizziCloud/Continuous_Previews_Manifesto
+repo_name: UffizziCloud/Continuous_Previews_Manfiesto
+
+# Styling
+extra_css:
+  - stylesheets/extra.css
+theme:
+  name: material
+  logo: assets/images/cp-logo.svg
+  favicon: assets/images/cp-favicon.png
+  features:
+    - content.code.annotate
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - footer.autohide
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.integrate
+
+# Extensions  
+markdown_extensions:
+  - attr_list
+
+
+# Plugins
+plugins:
+  - search
+  - minify:
+      minify_html: true
+
+# Page tree
+nav:
+  - Overview: index.md
+  - Developer Stories: developer-stories/developer-stories.md
+  - Lessons Learned: lessons-learned/lessons-learned.md
+  
