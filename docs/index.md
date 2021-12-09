@@ -72,4 +72,7 @@ We are advocating for organizations to adopt Continuous Previews as an Agile-sup
 
 &nbsp; 
 ## Who should read this?    
-The initial contributors to the CP Manifesto come from diverse backgrounds including being directly or indirectly involved in the design, development, deployment, and scaling of applications from Startups to the Fortune 500; leading Machine Learning Research Teams: and leading high nerformance Navy SEAL teams into combat.
+-Any Software Developer building applications withing the context of a team.
+-Ops and DevOps engineers who deploy and manage such applications.
+-Product leaders, designers, and team members who contribute to a software product.
+-Key leaders and decision makers within your organization.
