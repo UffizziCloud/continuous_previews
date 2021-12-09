@@ -4,8 +4,8 @@ site_description: >-
   Continuous Previews
 
 # Repository
-repo_url: https://github.com/UffizziCloud/Continuous_Previews_Manifesto
-repo_name: UffizziCloud/Continuous_Previews_Manfiesto
+repo_url: https://github.com/UffizziCloud/cpmanifesto
+repo_name: UffizziCloud/cpmanifesto
 
 # Styling
 extra_css:
