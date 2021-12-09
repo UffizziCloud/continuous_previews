@@ -72,7 +72,7 @@ We are advocating for organizations to adopt Continuous Previews as an Agile-sup
 
 &nbsp; 
 ## Who should read this?    
--Any Software Developer building applications withing the context of a team.
--Ops and DevOps engineers who deploy and manage such applications.
--Product leaders, designers, and team members who contribute to a software product.
--Key leaders and decision makers within your organization.
+* Any Software Developer building applications withing the context of a team.
+* Ops and DevOps engineers who deploy and manage such applications.
+* Product leaders, designers, and team members who contribute to a software product.
+* Key leaders and decision makers within your organization.
