@@ -30,7 +30,13 @@ theme:
 
 # Extensions  
 markdown_extensions:
+  - admonition
+  - abbr
   - attr_list
+  - def_list
+  - footnotes
+  - meta
+  - md_in_html
 
 
 # Plugins
