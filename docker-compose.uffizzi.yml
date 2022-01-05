@@ -1,7 +1,7 @@
 services:
   docs:
     build:
-      context: https://github.com/gadkins/cpmanifesto:main
+      context: https://github.com/UffizziCloud/continuous_previews
       dockerfile: Dockerfile
     deploy:
       resources:

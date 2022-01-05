@@ -1,11 +1,13 @@
 # Project information
-site_name: Continuous Previews
+site_name: Continuous Preview Manifesto
 site_description: >-
-  Continuous Previews
+  Continuous Preview Manifesto
+site_url: https://www.continuous-previews.org
 
 # Repository
 repo_url: https://github.com/UffizziCloud/continuous_previews
 repo_name: UffizziCloud/continuous_previews
+edit_uri: edit/main/docs/
 
 # Styling
 extra_css:
