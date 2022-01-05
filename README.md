@@ -1,4 +1,4 @@
-# Continuous Previews Manifesto
+# Continuous Previews
 
 Source for: <https://www.cpmanifesto.org>
 
