@@ -4,4 +4,4 @@ Learn from our community about best practice and lessons learned while implement
 Submisisons are welcome! Share your lessons learned to help others implement continuous previews.  
 
 &nbsp;  
-[Submit your lessons learned](https://github.com/UffizziCloud/Continuous_Previews_Manifesto){ .md-button }
+[Submit your lessons learned](https://github.com/UffizziCloud/continuous_previews){ .md-button }
