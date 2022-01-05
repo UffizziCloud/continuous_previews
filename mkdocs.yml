@@ -4,8 +4,8 @@ site_description: >-
   Continuous Previews
 
 # Repository
-repo_url: https://github.com/UffizziCloud/cpmanifesto
-repo_name: UffizziCloud/cpmanifesto
+repo_url: https://github.com/UffizziCloud/continuous_previews
+repo_name: UffizziCloud/continuous_previews
 
 # Styling
 extra_css:
@@ -50,4 +50,3 @@ nav:
   - Overview: index.md
   - Developer Stories: developer-stories/developer-stories.md
   - Lessons Learned: lessons-learned/lessons-learned.md
-  
