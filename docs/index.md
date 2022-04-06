@@ -1,4 +1,4 @@
-Over the past two decades since the Agile Manifesto was published, the concepts and technologies that support Continuous Integration, Continuous Delivery, Cloud Native development, Containerization, Microservices, and Container Orchestration have greatly improved the Agility with which software can be built, tested, and delivered These concepts and technologies have ushered in the now ubiquitous concept of DevOps and have helped break down the silos within the multi-disciplinary teams that must continuously collaborate to build great software.
+Over the past two decades since the Agile Manifesto was published, the concepts and technologies that support Continuous Integration, Continuous Delivery, Cloud Native development, Containerization, Microservices, and Container Orchestration have greatly improved the Agility with which software can be built, tested, and delivered. These concepts and technologies have ushered in the now ubiquitous concept of DevOps and have helped break down the silos within the multi-disciplinary teams that must continuously collaborate to build great software.
 
 Despite these advances, twenty years after the advent of Agile our community still lacks a common lexicon, understanding, and capability for efficiently previewing in-progress development for full-stack applications.
 
@@ -16,13 +16,13 @@ These are our observations:
 
 * As a community we are not actively collaborating or innovating towards a well-defined Preview process and technical capability.  
 
-* The market is awash in open source and commercially available Continuous Integration, Continuous Delivery, and Deployment tools, but these tools, while useful, are fundamentally lacking for the task of Previewing and facilitating the requisite collaborative teamwork across cross-functional teams to produce quality working software  
+* The market is awash in open source and commercially available Continuous Integration, Continuous Delivery, and Deployment tools, but these tools, while integral to the overall development process, are fundamentally lacking for the task of Previewing and facilitating the requisite collaborative teamwork across cross-functional teams to produce quality working software. 
 
 &nbsp; 
 ## 11 Principles of CP  
 
 1. Significantly Easier to Fix issues Pre-merge vice Post-merge
-2. Bring QA into the Develpment Process (CP = Continuous Collaboration between Devolopment and Product)
+2. Bring QA into the Development Process (CP = Continuous Collaboration between Devolopment and Product)
 3. Confirm Functionality Prior to Integration
 4. Isolated Feature Testing (Separation of Concerns) over batch testing
 5. Tight integration between Ticketing, Repositories, Infrastructure
@@ -31,7 +31,8 @@ These are our observations:
 8. Reliance on Automation
 9. Reduce reliance on Critical Sinale Points of Failure (i.e. persistent QA environment)
 10. Empower Developers with Feature-level Test Environments
-11. Support for Full-stack (Front ends, Back Ends, Microservices, APls, backing services . . .)
+11. Parallelize your feature efforts - when you can test in parallel you can iterate in parallel.
+12. Support for Full-stack (Front ends, Back Ends, Microservices, APls, backing services . . .)
 
 &nbsp; 
 ## Traditional QA vs. Continuous Previews  
@@ -45,7 +46,7 @@ These are our observations:
 
 &nbsp; 
 ## Definition  
-Continuous Preview(s) are an automation-enabled method by which in-progress development branches—known as topic branches—are continuously deployed in a dynamic production-like environment and are available for collaborative review and testing at a secure URL. By this method iterative feedback is accelerated and testing is conducted in a logical sequence where topic branch functionality testing is completed prior to integration testing and delivery (CP, then Cl / CD).  
+Continuous Preview(s) are an automation-enabled method by which in-progress development branches—known as topic branches—are continuously deployed in a dynamic production-like environment and are available for collaborative review and testing at a secure URL. By this method iterative feedback is accelerated and testing is conducted in a logical sequence where topic branch functionality testing is completed prior to integration testing and delivery.  
 
 &nbsp; 
 ## CP in Practice   
