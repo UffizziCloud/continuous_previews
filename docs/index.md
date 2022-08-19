@@ -29,7 +29,7 @@ These are our observations:
 6. No additional burdens on the Development Team
 7. Limit Context Switching
 8. Reliance on Automation
-9. Reduce reliance on Critical Sinale Points of Failure (i.e. persistent QA environment)
+9. Reduce reliance on Critical Single Points of Failure (i.e. persistent QA environment)
 10. Empower Developers with Feature-level Test Environments
 11. Parallelize your feature efforts - when you can test in parallel you can iterate in parallel.
 12. Support for Full-stack (Front ends, Back Ends, Microservices, APls, backing services . . .)
